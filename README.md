@@ -1,3 +1,3 @@
 # YoutubeClone
 
-dhj-youtube-clone.netlify.app
+dhj-youtubeclone.netlify.app
